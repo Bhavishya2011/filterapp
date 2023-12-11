@@ -13,10 +13,6 @@ canvas{
 }
 
 @keyframes example{
-    from {box-shadow: 1px 1px 38px purple;}
-    to {box-shadow: 1px 1px 38px blue;}
-}
-
-body{
-    background-color: rgb(164, 218, 239);
+    from {box-shadow: 1px 1px 38px red;}
+    to {box-shadow: 1px 1px 38px yellow;}
 }
